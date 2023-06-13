@@ -13,7 +13,7 @@ public class PersegiPanjang {
     }
     
      public double setKelilingPersegiPanjang(){
-        return 2 * (bil1 * bil2);
+        return 2 * (bil1 + bil2);
     }
     
 }
