@@ -1,9 +1,9 @@
 package geometri;
 
 public class Lingkaran {
-     double bil1, bil2;
+     double bil1;
     
-    public Lingkaran(double  bil1, double bil2){
+    public Lingkaran(double  bil1){
         this.bil1 = bil1;
     }
     
